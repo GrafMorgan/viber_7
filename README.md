@@ -2,6 +2,7 @@
 2. Добавялем поле PlaneText, TextView, 2 кнопки "Save" "Load"
 
 ![image](https://user-images.githubusercontent.com/38504787/145620253-b3a91a05-6a61-4fa8-be77-7227329b1bd0.png)
+
 3. Назначим имя файла и установим путь для него
 ~~~ Java
     String filename = "content.txt";
